@@ -1,0 +1,56 @@
+{
+  "Nav": {
+    "about": "Sobre",
+    "services": "Serviços",
+    "testimonials": "Depoimentos",
+    "contact": "Contato"
+  },
+  "Hero": {
+    "role": "Palestrante & Coach",
+    "tagline": "Transformando líderes, inspirando organizações",
+    "subtitle": "Mais de 20 anos ajudando pessoas e empresas a alcançarem seu máximo potencial",
+    "cta_primary": "Agendar Sessão",
+    "cta_secondary": "Saiba Mais"
+  },
+  "About": {
+    "title": "Sobre Giovani",
+    "bio1": "Giovani é um palestrante e coach executivo com mais de 20 anos de experiência trabalhando com empresas líderes na América Latina.",
+    "bio2": "Seu trabalho combina frameworks de liderança estratégica com ferramentas comportamentais práticas, ajudando profissionais de todos os níveis a conquistarem uma transformação duradoura.",
+    "bio3": "Certificado em PNL e Liderança Situacional, Giovani traz uma combinação única de expertise técnica e conexão humana para cada engajamento.",
+    "stat1_value": "20+",
+    "stat1_label": "Anos de Experiência",
+    "stat2_value": "500+",
+    "stat2_label": "Empresas Atendidas",
+    "stat3_value": "10k+",
+    "stat3_label": "Vidas Impactadas"
+  },
+  "Services": {
+    "title": "Serviços",
+    "card1_title": "Palestras Corporativas",
+    "card1_desc": "Keynotes de alto impacto criadas para inspirar mudanças comportamentais e motivar equipes rumo a novos hábitos e alta performance.",
+    "card2_title": "Treinamento em Liderança",
+    "card2_desc": "Programas personalizados de 6 a 9 meses combinando feedback, treinamento em grupo e acompanhamento individual para desenvolver líderes.",
+    "card3_title": "Coaching Executivo",
+    "card3_desc": "Coaching individual estruturado em três pilares: clarificação de objetivos, planejamento estratégico de ações e motivação sustentada.",
+    "card4_title": "Certificação de Palestrantes",
+    "card4_desc": "Programas de formação intensiva para profissionais que desejam desenvolver suas habilidades de oratória e facilitação."
+  },
+  "Testimonials": {
+    "title": "O Que Dizem",
+    "t1_text": "O treinamento do Giovani mudou completamente a forma como nossa liderança enfrenta os desafios. O impacto foi imediato e duradouro.",
+    "t1_author": "— CEO, Empresa Exemplo",
+    "t2_text": "Um palestrante excepcional. Sua capacidade de conectar com o público e entregar insights práticos não tem igual.",
+    "t2_author": "— Diretora de RH, Corp Exemplo",
+    "t3_text": "O programa de coaching me deu a clareza e as ferramentas que precisava para assumir um cargo de liderança sênior com confiança.",
+    "t3_author": "— Gerente Sênior, Inc Exemplo"
+  },
+  "Contact": {
+    "title": "Vamos Trabalhar Juntos",
+    "subtitle": "Pronto para transformar sua equipe ou levar sua carreira ao próximo nível? Entre em contato.",
+    "cta": "Enviar Mensagem",
+    "instagram": "Seguir no Instagram"
+  },
+  "Footer": {
+    "rights": "Todos os direitos reservados"
+  }
+}

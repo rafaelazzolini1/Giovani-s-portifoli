@@ -1,0 +1,56 @@
+{
+  "Nav": {
+    "about": "About",
+    "services": "Services",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "role": "Speaker & Coach",
+    "tagline": "Transforming leaders, inspiring organizations",
+    "subtitle": "20+ years helping individuals and companies unlock their full potential",
+    "cta_primary": "Book a Session",
+    "cta_secondary": "Learn More"
+  },
+  "About": {
+    "title": "About Giovani",
+    "bio1": "Giovani is a seasoned speaker and executive coach with over 20 years of experience working with leading companies across Latin America.",
+    "bio2": "His work combines strategic leadership frameworks with practical behavioral tools, helping professionals at every level achieve lasting transformation.",
+    "bio3": "Certified in NLP and Situational Leadership, Giovani brings a unique blend of technical expertise and human connection to every engagement.",
+    "stat1_value": "20+",
+    "stat1_label": "Years of Experience",
+    "stat2_value": "500+",
+    "stat2_label": "Companies Served",
+    "stat3_value": "10k+",
+    "stat3_label": "Lives Impacted"
+  },
+  "Services": {
+    "title": "Services",
+    "card1_title": "Corporate Lectures",
+    "card1_desc": "High-impact keynotes and lectures designed to inspire behavioral change and motivate teams toward new habits and peak performance.",
+    "card2_title": "Leadership Training",
+    "card2_desc": "Customized 6–9 month programs combining feedback, group training, and individual monitoring to develop leaders at every level.",
+    "card3_title": "Executive Coaching",
+    "card3_desc": "One-on-one coaching structured around three pillars: goal clarification, strategic action planning, and sustained motivation.",
+    "card4_title": "Speaker Certification",
+    "card4_desc": "Intensive training programs for professionals who want to develop their public speaking and facilitation skills."
+  },
+  "Testimonials": {
+    "title": "What People Say",
+    "t1_text": "Giovani's training completely changed how our leadership team approaches challenges. The impact was immediate and lasting.",
+    "t1_author": "— CEO, Placeholder Company",
+    "t2_text": "An exceptional speaker. His ability to connect with the audience and deliver actionable insights is unmatched.",
+    "t2_author": "— HR Director, Placeholder Corp",
+    "t3_text": "The coaching program gave me the clarity and tools I needed to step into a senior leadership role with confidence.",
+    "t3_author": "— Senior Manager, Placeholder Inc"
+  },
+  "Contact": {
+    "title": "Let's Work Together",
+    "subtitle": "Ready to transform your team or take your career to the next level? Get in touch.",
+    "cta": "Send a Message",
+    "instagram": "Follow on Instagram"
+  },
+  "Footer": {
+    "rights": "All rights reserved"
+  }
+}
