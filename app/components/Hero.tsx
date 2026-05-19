@@ -2,6 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 export default function Hero() {
   const t = useTranslations("Hero");
@@ -75,9 +76,20 @@ export default function Hero() {
           initial={{ opacity: 0, scale: 0.95 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          className="relative flex justify-center"
+          className="relative hidden md:flex justify-center"
         >
-
+          <div className="relative w-80 h-96">
+            {/* Gold border accent */}
+            <div className="absolute -inset-2 border border-[#b8962e]/30 rounded" />
+            <div className="absolute -bottom-3 -right-3 w-full h-full border border-[#b8962e]/20 rounded" />
+            <Image
+              src="/images/giovani.jpg"
+              alt="Giovani"
+              fill
+              className="object-cover rounded"
+              priority
+            />
+          </div>
         </motion.div>
       
       </div>
